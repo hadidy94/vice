@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="xls" transform="translate(-469 -7123)">
+    <rect id="Rectangle_233" data-name="Rectangle 233" width="80" height="80" rx="40" transform="translate(469 7123)" fill="#00733b" opacity="0.1"/>
+    <g id="_004-excel" data-name="004-excel" transform="translate(496 7145)">
+      <g id="Vrstva_x0020_1_5_" transform="translate(0)">
+        <path id="Path_3193" data-name="Path 3193" d="M104.415,0h12.041l10.2,10.64V31.312A4.69,4.69,0,0,1,121.966,36H104.415a4.69,4.69,0,0,1-4.688-4.688V4.688A4.69,4.69,0,0,1,104.415,0Z" transform="translate(-99.727)" fill="#00733b"/>
+        <g id="Group_499" data-name="Group 499" transform="translate(7.931)">
+          <path id="Path_3194" data-name="Path 3194" d="M467.176,0V10.549H477.39Z" transform="translate(-458.393)" fill="#fff" opacity="0.302"/>
+          <path id="Path_3195" data-name="Path 3195" d="M274.081,386.409h4.78v1.811h-4.78Zm6.271-9.255h4.795v1.8h-4.795Zm-6.271,0h4.78v1.8h-4.78Zm6.271,3.044h4.795v1.811h-4.795Zm-6.271,0h4.78v1.811h-4.78Zm6.271,3.166h4.795v1.811h-4.795Zm-6.271,0h4.78v1.811h-4.78Zm6.271,3.044h4.795v1.811h-4.795Z" transform="translate(-274.081 -359.999)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

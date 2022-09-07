@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="audio" transform="translate(-1546 -7123)">
+    <rect id="Rectangle_244" data-name="Rectangle 244" width="80" height="80" rx="40" transform="translate(1546 7123)" fill="#90c" opacity="0.1"/>
+    <g id="_002-music" data-name="002-music" transform="translate(1573 7145)">
+      <g id="Vrstva_x0020_1_14_" transform="translate(0 0)">
+        <path id="Path_3187" data-name="Path 3187" d="M104.434,0h12.041l10.2,10.635V31.319A4.69,4.69,0,0,1,122,36H104.434a4.683,4.683,0,0,1-4.681-4.681V4.681A4.676,4.676,0,0,1,104.434,0Z" transform="translate(-99.753 0)" fill="#90c"/>
+        <g id="Group_497" data-name="Group 497" transform="translate(9.628 0)">
+          <path id="Path_3188" data-name="Path 3188" d="M467.136,0V10.547h10.215Z" transform="translate(-460.053)" fill="#fff" opacity="0.302"/>
+          <path id="Path_3189" data-name="Path 3189" d="M318.472,372.231a4.621,4.621,0,0,0,.62-2.025,2.906,2.906,0,0,0-.3-1.405,4.042,4.042,0,0,0-1.538-1.516,4.332,4.332,0,0,1-1.129-.952l-.055-.066a2.046,2.046,0,0,1-.4-.719.422.422,0,0,0-.841.066V373.2a2.42,2.42,0,0,0-1.284-.354,1.748,1.748,0,1,0,2.136,1.7v-4.969a3.089,3.089,0,0,1,1.97,2.324,1.769,1.769,0,0,1-.166.232.436.436,0,0,0,.044.609.422.422,0,0,0,.6-.044,2.626,2.626,0,0,0,.31-.443Z" transform="translate(-311.422 -348.57)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

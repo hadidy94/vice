@@ -1,0 +1,77 @@
+@media (min-width: 1900px) {
+  .container {
+    max-width: 1500px;
+  }
+}
+
+@media (max-width: 900px) {
+  .carousel-fade .carousel-item {
+    height: 550px;
+  }
+  .owl-nav {
+    display: none !important;
+  }
+  .about .about_img {
+    position: relative;
+    min-height: 325px;
+    margin-bottom: 40px;
+  }
+  .about .about_img img:first-child {
+    right: 0;
+    top: 0;
+    width: 70%;
+  }
+  .about .about_img img:last-child {
+    bottom: 0;
+    left: 0;
+    width: 50%;
+  }
+  .section_title {
+    max-width: 100%;
+  }
+  .section_title h1 {
+    font-size: 30px;
+    margin-bottom: 25px;
+  }
+  footer .footer_wrap {
+    justify-content: center;
+  }
+  .footer_img {
+    margin-bottom: 20px;
+  }
+  footer .footer_wrap .footer_links ul {
+    flex-wrap: wrap;
+  }
+  footer .footer_wrap .footer_links ul li {
+    margin: 0 10px;
+    width: 44%;
+    margin-bottom: 10px;
+  }
+  .projects .project_card .project_img {
+    position: relative;
+    width: 100%;
+  }
+  .projects .project_card .project_desc {
+    width: 100%;
+    position: relative;
+    bottom: auto;
+    left: auto;
+    margin: 0;
+    padding: 20px;
+    padding-bottom: 50px;
+  }
+  .projects .project_card .project_progress {
+    padding: 20px;
+    top: 0;
+    bottom: auto;
+    left: 0;
+    right: auto;
+    border-radius: 10px;
+  }
+  .projects .project_card .modal_btn {
+    bottom: 0;
+  }
+  .files .nav-link {
+    padding: 10px 15px;
+  }
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="video" transform="translate(-1438 -7123)">
+    <rect id="Rectangle_243" data-name="Rectangle 243" width="80" height="80" rx="40" transform="translate(1438 7123)" fill="#fa0000" opacity="0.1"/>
+    <g id="_001-video" data-name="001-video" transform="translate(1465 7145)">
+      <g id="Vrstva_x0020_1_13_" transform="translate(0 0)">
+        <path id="Path_3184" data-name="Path 3184" d="M104.46,0H116.5l10.2,10.633V31.313A4.682,4.682,0,0,1,122.019,36H104.46a4.684,4.684,0,0,1-4.687-4.687V4.687A4.684,4.684,0,0,1,104.46,0Z" transform="translate(-99.773 0)" fill="#fa0000"/>
+        <g id="Group_496" data-name="Group 496" transform="translate(7.646 0)">
+          <path id="Path_3185" data-name="Path 3185" d="M467.219,0V10.552h10.21Z" transform="translate(-458.152)" fill="#fff" opacity="0.302"/>
+          <path id="Path_3186" data-name="Path 3186" d="M273.692,359.141a5.816,5.816,0,1,0,5.811,5.82A5.824,5.824,0,0,0,273.692,359.141Zm2.447,6a.477.477,0,0,1-.189.189l-3.319,1.664a.417.417,0,0,1-.558-.189.328.328,0,0,1-.045-.189V363.3a.413.413,0,0,1,.414-.414.365.365,0,0,1,.189.045l3.319,1.655A.42.42,0,0,1,276.139,365.141Z" transform="translate(-267.872 -342.805)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

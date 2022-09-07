@@ -1,0 +1,52 @@
+@font-face {
+    font-family: '29LT Bukra';
+    src: url('29LTBukra-Lt.eot');
+    src: url('29LTBukra-Lt.eot?#iefix') format('embedded-opentype'),
+        url('29LTBukra-Lt.woff2') format('woff2'),
+        url('29LTBukra-Lt.woff') format('woff'),
+        url('29LTBukra-Lt.ttf') format('truetype'),
+        url('29LTBukra-Lt.svg#29LTBukra-Lt') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '29LT Bukra';
+    src: url('29LTBukra-Rg.eot');
+    src: url('29LTBukra-Rg.eot?#iefix') format('embedded-opentype'),
+        url('29LTBukra-Rg.woff2') format('woff2'),
+        url('29LTBukra-Rg.woff') format('woff'),
+        url('29LTBukra-Rg.ttf') format('truetype'),
+        url('29LTBukra-Rg.svg#29LTBukra-Rg') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: '29LT Bukra';
+    src: url('29LTBukra-Md.eot');
+    src: url('29LTBukra-Md.eot?#iefix') format('embedded-opentype'),
+        url('29LTBukra-Md.woff2') format('woff2'),
+        url('29LTBukra-Md.woff') format('woff'),
+        url('29LTBukra-Md.ttf') format('truetype'),
+        url('29LTBukra-Md.svg#29LTBukra-Md') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: '29LT Bukra';
+    src: url('29LTBukra-Bd.eot');
+    src: url('29LTBukra-Bd.eot?#iefix') format('embedded-opentype'),
+        url('29LTBukra-Bd.woff2') format('woff2'),
+        url('29LTBukra-Bd.woff') format('woff'),
+        url('29LTBukra-Bd.ttf') format('truetype'),
+        url('29LTBukra-Bd.svg#29LTBukra-Bd') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+
