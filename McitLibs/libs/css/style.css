@@ -185,6 +185,83 @@ section {
   padding: 110px 0 70px 0 !important;
 }
 
+.tasks .tasks-img {
+  position: relative;
+}
+.tasks .tasks-img img {
+  max-width: 100%;
+  position: relative;
+  z-index: 5;
+}
+.tasks .tasks-img::after {
+  content: "";
+  position: absolute;
+  left: -40px;
+  bottom: -40px;
+  background: #D7DDE0;
+  right: 40px;
+  top: 40px;
+  border-radius: 15px;
+}
+.tasks .title {
+  font-size: 60px;
+  margin-top: 50px;
+  color: #12368E;
+  margin-bottom: 20px;
+}
+.tasks nav .nav-tabs .nav-link {
+  border: 0;
+  color: #B0B9BE;
+  font-weight: bold;
+  font-size: 20px;
+  position: relative;
+  padding: 0;
+  margin: 0 15px;
+  padding-bottom: 8px;
+  margin-bottom: 10px;
+}
+.tasks nav .nav-tabs .nav-link::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  background: #B0B9BE;
+  left: 0;
+  right: 0;
+  height: 5px;
+}
+.tasks nav .nav-tabs .nav-link.active,
+.tasks nav .nav-tabs .nav-item.show .nav-link {
+  border: 0;
+  color: #12368E;
+}
+.tasks nav .nav-tabs .nav-link.active::after,
+.tasks nav .nav-tabs .nav-item.show .nav-link::after {
+  background: #12368E;
+}
+.tasks nav .nav-tabs .nav-link:hover,
+.tasks nav .nav-tabs .nav-link:focus {
+  border: 0;
+  color: #12368E;
+}
+.tasks nav .nav-tabs .nav-link:hover::after,
+.tasks nav .nav-tabs .nav-link:focus::after {
+  background: #12368E;
+}
+.tasks .tab-content .task-item .task-icon {
+  background: #12368E;
+  color: #fff;
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+}
+.tasks .tab-content .task-item p {
+  width: 100%;
+}
+
 .missions .mission_card {
   border: 2px solid #d7dde0;
   display: flex;
